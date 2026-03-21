@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="resume.jpeg" width="100%">
+  <img src="resume.jpg" width="100%">
 </p>
